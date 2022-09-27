@@ -1,3 +1,3 @@
 # TeemzyRep
 Introduction To Computer Engineering
-Print ("Hello World")
+print ("Hello World")
